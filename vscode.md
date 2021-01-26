@@ -22,20 +22,32 @@
 5. open in browser - 快速打开html文件到浏览器预览
 6. Markdown All in One --编写MarkDown文件
 7. CSS Peek - css样式查看器，可快速查看我们的css样式，非常方便快捷
+8. koroFileHeader -- 在vscode中用于生成文件头部注释和函数注释的插件
 
 
 
 ### 三.编译
 1. [SCSS Formatter 编译文件](https://marketplace.visualstudio.com/items?itemName=sibiraj-s.vscode-scss-formatter "编译scss文件")
-2. Live Server -- 开启一个本地服务器，并且可以热更新 
+2.  Live Server -- 开启一个本地服务器，并且可以热更新 
 3.  Beautify -- 在代码文件右键鼠标一键格式化 html,js,css
 4.  Bracket Pair Colorizer - 该插件可以为你把成对的括号做颜色区分，并且提供一根连接线。方便我们审阅代码结构。
+5.  Live Sass Compiler -- 实时编译scss文件为css文件
+6.  SCSS Formatter -- scss文件格式化
+7.  Markdown All in One  -- md文件编写
+8.  Markdown Preview Enhanced - md文件预览
+
+
+
 ###  四.代码
 1. JavaScript (ES6) code snippets - ES6语法智能提示，以及快速输入
 2. HTML Snippets - HTML代码片段，该插件可为你提供html标签的代码提示，不用键入尖括号了
 3. Auto Rename Tag - 自动重命名成对的HTML标记，修改开始标签，结束标签会同步修改
 4. Auto Close Tag - 自动闭合HTML/XML标签
 5. Npm Intellisense - 可自动完成导入语句中的npm模块
+6. minapp-微信小程序标签，属性智能补全
+7. Reactjs code snippets
+8. Vetur
+
 
 
 
@@ -45,3 +57,5 @@
 
 新建一个.http文件，写下基本的测试代码，点击 Send Request即可在右边窗口查看接口返回结果，非常nice，强烈推荐
 ```
+
+
